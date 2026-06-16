@@ -2,7 +2,7 @@
 
 > Predicting a per-pixel depth map from a single RGB image, with a model small and fast enough to win on a size/speed-weighted leaderboard.
 
-**Hackathon:** AIGOAT 1.0 · **Team:** *PPP: PeniParkersPrime* · 🏆 **Final rank: #3** · **Score: 1.47**
+**Hackathon:** AIGOAT 1.0 · **Team:** *PPP: PeniParkersPrime* · 🏆 **Final rank: #2** · **Score: 1.47**
 
 ---
 
